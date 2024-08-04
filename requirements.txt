@@ -1,0 +1,3 @@
+python -m pip install segno
+pip install python-dotenv
+pip install requests
